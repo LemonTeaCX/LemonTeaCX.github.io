@@ -1,0 +1,1 @@
+import{d as o,o as r,c as l}from"./index-DbAjZ_Ab.js";const a=o({__name:"600",setup(s){return console.log((t=>{let n=0,e=0;for(;e<=t;)console.log(e,e.toString(2)),e.toString(2).indexOf("11")===-1&&n++,e++;return n})(100)),(t,n)=>(r(),l("h1",null,"600"))}});export{a as default};

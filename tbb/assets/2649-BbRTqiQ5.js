@@ -1,0 +1,1 @@
+import{d as t}from"./index-DbAjZ_Ab.js";const a=t({__name:"2649",setup(r){function*n(l){for(let e of l)typeof e=="number"?yield e:yield*n(e)}const o=n([1,[2,3]]);return console.log(o.next().value),console.log(o.next().value),console.log(o.next().value),(l,e)=>null}});export{a as default};
