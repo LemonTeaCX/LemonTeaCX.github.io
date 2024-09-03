@@ -1,0 +1,1 @@
+import{d as c}from"./index-BFeJtXXV.js";const l=c({__name:"2626",setup(s){function r(e,n,t){let o=0;for(const u of e)o=n(o||t,u);return e.length===0?t:o}return console.log(r([1,2,3,4],function(n,t){return n+t},0)),(e,n)=>null}});export{l as default};
