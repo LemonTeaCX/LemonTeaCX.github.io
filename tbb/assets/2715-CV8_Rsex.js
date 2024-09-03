@@ -1,0 +1,1 @@
+import{d as i,o as _,c as p}from"./index-DD0LVhe4.js";const d=i({__name:"2715",setup(f){function c(e,n,m){const u=()=>{t&&clearTimeout(t)},t=setTimeout(()=>{e(...n)},m);return u}const o=e=>e*5,s=[2],a=20,r=50,l=c(o,s,a);return setTimeout(l,r),(e,n)=>(_(),p("h1",null,"2715"))}});export{d as default};
