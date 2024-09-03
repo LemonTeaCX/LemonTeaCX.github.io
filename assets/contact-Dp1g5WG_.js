@@ -1,1 +1,0 @@
-const t=""+new URL("../img/meng.png",import.meta.url).href,r=""+new URL("../img/banner.png",import.meta.url).href,m=""+new URL("../img/theory.png",import.meta.url).href,e=""+new URL("../img/contact.png",import.meta.url).href;export{t as _,r as a,m as b,e as c};
